@@ -1,0 +1,8 @@
+GOJEK#direktur#200000#Bandung
+SHOPPE#karyawan#300000#Jakarta
+Tokopedia#Manager#1500000#Bekasi
+Binus#Dosen#14000000#Semarang
+Mcdonald#Karyawan#289000#Cimahi
+Wendys#Karyawan#130000#Bali
+BliBli#Marketing Social Media#6100000#Bandung
+Perusahaan1#Karyawan#2000000#Bandung
